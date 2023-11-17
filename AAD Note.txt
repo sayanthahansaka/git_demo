@@ -1,0 +1,4 @@
+*)Front End(Static Web, pos, Angular) එක සහ Back End(Node JS,PHP,Java EE,Spring Boot) එක එකට එකතු කරල connect
+    කරලා cmunicate කරන්න AJAX වගෙ fream work එකක් use කරනවා.
+		(*)web page එකක් refreash කරන්නැතුව web brauser එකක් true reqwest එකක් යවල response එකක් ගන්න
+		       පුලුවන් object එකක් තමයි AJAX වලදී හම්බ වෙන්නෙ.

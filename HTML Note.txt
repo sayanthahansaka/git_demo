@@ -1,0 +1,62 @@
+HTML වලින් හදන්නෙ සැකිල්ල
+CSS වලින් colors දාලා ලස්සනට හදනවා
+JavaScript වලින් fanshonal වගෙ දේවල් input කරනවා.
+
+HTML කියන්නෙ web එකක් හදන්න ඔනෙ beskma Strachcha එක
+
+#Body tag#
+==========
+*)Page එකෙ සම්පුර්න  canttent එක තියෙන්නෙ body tag එක ඇතුලෙ?.r,tb ,gfldfdc
+
+*) චෙදයක් code කරන්න P tag එක use කරනවා.
+
+*)pre tag එකෙදි අපි enter key එක ඔබන හැම තැනකින්ම පෙලිය පල්ලහට කැඩෙනවා. එවගෙම මෙ tag එකෙදි හැම 
+    අකුරටම යන්නෙ එකම ඉඩක්.
+
+*)br tag එකෙන් ඔනම එක පෙලියක් පෙලි 2කට කඩන්න පුලුවන් br tag එකට close tag එකක් නැ.
+
+*) a tag එකෙන් කරන්නෙ web page එකට link එකක් add කරන එක 
+		EX:-<A href="https://flatuicolors.com/">Palettes</a>
+                          
+*)img tag එක use කරන්නෙ web page එකට photo එකක් add කරන්න.
+		EX:-<img src="Photo එකෙ path එක"  alt="sayantha" with="300" height="200">
+			මෙතනදි alt එකෙන් වෙන්නෙ අපි uplode කරන photo එක delete වෙලා තිබ්බත් 
+			එතන image icon එකක් එක්ක alt එක ඇතුලෙ දාපු name එක desply වෙනවා.
+			මෙ tag එකෙ close tag එකක් නෑ.
+
+*)ul tag මෙක use කරන්නෙ un oderd list එකක් web page එකට අඩ්ඩ් karanna.
+		EX:- <ul>
+			 <li>A</li>
+			 <li>B</li>
+			 <li>C</li>
+			 <li>D</li>
+			</ul>
+	ol tag එකත් මෙ වගෙමයි ul වෙනුවට tag එක ol කරනවා. ol tage එකෙයි ul tage 
+	එකෙයි වෙනස තමයි ol tage එකෙදි (123)කියන numbs එක්ක oder එකකට list වෙන
+	ul tag එකෙදි නිකන් bulet විතරයි වැටෙන්නෙ.
+
+*)web page එකට button එකක් add කරන්න button tag එක use කරනවා
+		EX:-<button>Home</button>
+
+*) style එකක් ඇතුලෙ color font වගෙ දේවල් වෙනස් කරන්න පුලුවන්.
+		EX:- <p style="color:red"></p>
+		*font-family
+		*font-size
+		*<p style="text-align:center"></p> 
+		*<p style="text-align:right"></p>
+		*<p style="text-align:left"></p>
+		මෙ tag එකෙන් paragraf එක align 
+		 කරන්න පුලුවන්.
+		*<b>=bolt
+		*<i>=italic
+		*<ins>=underline
+		*<mark>=higtlite
+		*<q>=up coteshon""
+
+
+
+
+
+
+
+		
